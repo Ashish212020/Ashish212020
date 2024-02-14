@@ -1,7 +1,7 @@
 ![Banner Image](https://camo.githubusercontent.com/4da399c3a8f66b662e6c7c2ad787ce979082d31ab3270866174dd686b224ce34/68747470733a2f2f63646e2e61636f64657a2e696e2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f42616e6e65722d696d6167652d342e706e67)
 
 <h1 align="center">Hi 👋, I'm Ashish</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish212020&label=Profile%20views&color=0e75b6&style=flat" alt="ashish212020" /> </p>
