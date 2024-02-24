@@ -1,5 +1,5 @@
-![Banner Image](https://camo.githubusercontent.com/4da399c3a8f66b662e6c7c2ad787ce979082d31ab3270866174dd686b224ce34/68747470733a2f2f63646e2e61636f64657a2e696e2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f42616e6e65722d696d6167652d342e706e67)
-
+![Banner Image]
+<img src="https://cdn.acodez.in/wp-content/uploads/2018/05/Banner-image-4.png" width="800" />
 <h1 align="center">Hi 👋, I'm Ashish</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ashish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish" height="30" width="40" /></a>
-<a href="https://instagram.com/axshiishh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="axshiishh" height="30" width="40" /></a>
+<a href="https://instagram.com/Ashish21h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ashish21h" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
